@@ -1,5 +1,5 @@
 {
-  "name": "npm-publish-demo",
+  "name": "publish-liu-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/liudi1991/npm-publish-demo/issues"
   },
-  "homepage": "https://github.com/liudi1991/npm-publish-demo#readme"
+  "homepage": "https://github.com/liudi1991/npm-publish-demo#readme",
+  "dependencies": {
+  }
 }
